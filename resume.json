@@ -4,7 +4,7 @@
     "projName": "Location Alert",
     "projDesc": "This is a location alert app",
     "imgs": [
-      "https://github.com/anilraok/resume/blob/master/web_hi_res_512.png"
+      "https://raw.githubusercontent.com/anilraok/resume/master/web_hi_res_512.png"
     ]
   },
   {
@@ -12,7 +12,7 @@
   "projName": "Swoop",
   "projDesc": "This is a simple chat app",
   "imgs": [
-    "https://github.com/anilraok/resume/blob/master/web_hi_res_512.png"
+    "https://raw.githubusercontent.com/anilraok/resume/master/web_hi_res_512.png"
   ]
 }
 ]
